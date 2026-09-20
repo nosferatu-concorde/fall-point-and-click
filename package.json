@@ -1,0 +1,16 @@
+{
+  "name": "fall-point-and-click",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "typescript": "~5.7.2",
+    "vite": "^6.3.1"
+  },
+  "dependencies": {
+    "phaser": "4.0.0"
+  }
+}
