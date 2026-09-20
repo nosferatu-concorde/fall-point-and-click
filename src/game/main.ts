@@ -3,8 +3,8 @@ import { AUTO, Game, Scale, Types } from 'phaser';
 
 const config: Types.Core.GameConfig = {
   type: AUTO,
-  width: 800,
-  height: 600,
+  width: 1920,
+  height: 1080,
   parent: 'game-container',
   backgroundColor: '#fff',
   scale: {
